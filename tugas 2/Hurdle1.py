@@ -14,3 +14,10 @@ def walk():
 def jump():
   move()
   walk()
+
+jump()
+jump()
+jump()
+jump()
+jump()
+jump()
